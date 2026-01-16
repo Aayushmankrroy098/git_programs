@@ -1,0 +1,6 @@
+name=input("Enter your name: ")
+age=int(input("Enter your are: "))
+rol=int(input("Enter your roll no. : "))
+gpa=float(input("Enter your GPA: "))
+add=input("enter your address: ")
+print(f"My name is {name}. I am {age} years old. My roll call is {rol}. I got {gpa} GPA in SEE. I live in {add}. THANK U .")
